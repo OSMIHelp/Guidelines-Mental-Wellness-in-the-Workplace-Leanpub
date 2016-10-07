@@ -10,8 +10,6 @@ This document was compiled by Open Sourcing Mental Illness contributors using EE
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0)
 
-Cover art by Matt Wallace <matt@wausonline.com>
-
 {pagebreak}
 
 # Section I - Introduction
@@ -487,3 +485,4 @@ World Health Organization. (2005). Mental health policies and programs in the wo
 * Jennifer Akullian, PhD
 * Ed Finkler
 * Johanna Wu, PhD
+* Cover art by Matt Wallace <matt@wausonline.com>
